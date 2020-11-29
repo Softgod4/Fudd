@@ -1,0 +1,12 @@
+body {
+  margin-right: 15%;
+  margin-left: 15%;
+}
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.textJustify {
+  text-align: justify;
+}
